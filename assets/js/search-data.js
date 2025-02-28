@@ -431,8 +431,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-got-full-scholarship-for-4-year-program-in-bachelor-in-electrical-engineering-at-ioe-pulchowk-campus-tu-nepal",
+          title: 'Got full scholarship for 4-year program in Bachelor in Electrical Engineering at IOE,...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',

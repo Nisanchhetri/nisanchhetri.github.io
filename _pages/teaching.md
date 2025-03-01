@@ -8,4 +8,11 @@ nav_order: 6
 ---
 
 Graduate teaching assistant for the following courses:
-Discrete Mathematics, C and Software Tools, Artificial Intelligence (AI), Technical Communication
+
+Discrete Mathematics
+
+C and Software Tools
+
+Artificial Intelligence (AI)
+
+Technical Communication

@@ -60,8 +60,7 @@
       "startDate": "2021-08-16",
       "endDate": "2026-05-06",
       "score": "10",
-      "courses": ["Data Structures and Algorithms", "Artificial Intelligence", "Data Mining", "Neural Networks", "Efficient Deep Learning",
-"Software Engineering", "Accelerated Deep Learning", "Advanced Machine Learning"]
+      "courses": ["Data Structures and Algorithms", "Artificial Intelligence", "Data Mining", "Neural Networks", "Efficient Deep Learning", "Software Engineering", "Accelerated Deep Learning", "Advanced Machine Learning"]
     },
     {
       "institution": "North Carolina State University",
@@ -71,6 +70,8 @@
       "studyType": "Master's in Computer Science",
       "startDate": "2021-08-16",
       "endDate": "2023-12-06",
+      "score": "10",
+      "courses": ["Machine Learning"]
     }
   ],
   "awards": [

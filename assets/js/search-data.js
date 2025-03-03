@@ -437,9 +437,9 @@ ninja.data = [{
           description: "a user-driven T2I framework using prompt engineering with diffusion-based models for complex object generation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-few-shot-learning-for-energy-detection",
+          title: 'Few-shot Learning for Energy Detection',
+          description: "a few-shot learning model to detect energy infrastructure (nuclear, solar, hydro) in aerial imagery.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",

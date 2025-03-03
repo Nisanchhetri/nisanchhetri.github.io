@@ -442,9 +442,9 @@ ninja.data = [{
           description: "a few-shot learning model to detect energy infrastructure (nuclear, solar, hydro) in aerial imagery.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-econet-weather-forecasting",
+          title: 'EcoNet Weather Forecasting',
+          description: "Ranked 1st in class of 25 groups with 5 different ML models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",

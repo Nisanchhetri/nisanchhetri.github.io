@@ -58,12 +58,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-cv",
+              title: "cv",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "";
               },
             },{id: "post-a-post-with-image-galleries",
       
@@ -462,16 +462,6 @@ ninja.data = [{
           description: "a model with CNN and LSTM using time-series data up to 93% accuracy on the test set to improve robotic limb",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-email',
         title: 'email',

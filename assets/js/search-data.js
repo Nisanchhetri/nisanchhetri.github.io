@@ -447,9 +447,9 @@ ninja.data = [{
           description: "Ranked 1st in class of 25 groups with 5 different ML models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-pneumonia-detection",
-          title: 'Pneumonia Detection',
-          description: "a DenseNet model to detect pneumonia with bounding boxes, reaching 80% accuracy",
+            },},{id: "projects-evaluation-of-various-bert-algorithms",
+          title: 'Evaluation of various BERT algorithms',
+          description: "evaluated 5 BERT models across 8 GLUE tasks, identifying BERT Uncased as the top performer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-pneumonia-detection",
@@ -467,16 +467,6 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',

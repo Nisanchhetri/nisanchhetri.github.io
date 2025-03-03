@@ -432,9 +432,9 @@ ninja.data = [{
           section: "News",},{id: "news-promoted-to-machine-learning-engineer-level-i-at-fusemachine-inc",
           title: 'Promoted to Machine Learning Engineer Level I at Fusemachine Inc.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-automated-image-generation-via-prompt-based-guidance",
+          title: 'Automated image generation via prompt-based guidance',
+          description: "a user-driven T2I framework using prompt engineering with diffusion-based models for complex object generation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",

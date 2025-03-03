@@ -457,9 +457,9 @@ ninja.data = [{
           description: "evaluated 5 BERT models across 8 GLUE tasks, identifying BERT Uncased as the top performer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-terrian-classification",
+          title: 'Terrian Classification',
+          description: "a model with CNN and LSTM using time-series data up to 93% accuracy on the test set to improve robotic limb",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",

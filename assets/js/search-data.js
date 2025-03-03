@@ -447,14 +447,14 @@ ninja.data = [{
           description: "Ranked 1st in class of 25 groups with 5 different ML models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-pneumonia-detection",
-          title: 'Pneumonia Detection',
-          description: "a DenseNet model to detect pneumonia with bounding boxes, reaching 80% accuracy",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-evaluation-of-various-bert-algorithms",
           title: 'Evaluation of various BERT algorithms',
           description: "evaluated 5 BERT models across 8 GLUE tasks, identifying BERT Uncased as the top performer",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
+            },},{id: "projects-pneumonia-detection",
+          title: 'Pneumonia Detection',
+          description: "a DenseNet model to detect pneumonia with bounding boxes, reaching 80% accuracy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-terrian-classification",

@@ -3,9 +3,8 @@ layout: page
 title: EcoNet Weather Forecasting
 description: Ranked 1st in class of 25 groups with 5 different ML models
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+importance: 2
+category: academic
 ---
 Abstract
 

@@ -26,6 +26,6 @@ latest_posts:
 
 Hi, welcome to my profile. I am Nisan Chhetri, 4th year PhD student in Computer Science at NC State University. My research focuses on understanding the psychological properties of creativity in the image domain. I am investigating machine learning techniques to understand the properties of images that lead to creativity under the supervision of Dr. Christopher Healey.
 
-Research interests: image understanding, creativity, pattern recognition, anamoly detection, text-to-image generation, multi-modal learning, prompt engineering, biological system
+Research interests: image understanding, creativity, pattern recognition, anomaly detection, text-to-image generation, multi-modal learning, prompt engineering, computational biology.
 
 

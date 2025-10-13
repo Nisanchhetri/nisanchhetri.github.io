@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2025-05-02
+date: 2025-03-28
 inline: true
 related_posts: false
 ---
-Successfully defended Ph.D. Proposal, "Modelling creativity dimensions to estimate image creativity"!
+Published a coauthored paper, "A metaproteomic analysis of the piglet fecal microbiome across the weaning transition," in *Frontiers in Microbiology*.
+
+
 

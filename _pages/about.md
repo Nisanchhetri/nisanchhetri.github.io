@@ -16,16 +16,16 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 20 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 10 # leave blank to include all the blog posts
 ---
 
-Hi, welcome to my profile. I am Nisan Chhetri, 4th year PhD student in Computer Science at NC State University. My research focuses on understanding the psychological properties of creativity in the image domain. I am investigating machine learning techniques to understand the properties of images that lead to creativity under the supervision of Dr. Christopher Healey.
+Hi, welcome to my profile. I am Nisan Chhetri, a 5th-year PhD student in Computer Science at NC State University. My research focuses on understanding the psychological properties of creativity in the image domain. I am investigating machine learning techniques to understand the properties of images that lead to creativity under the supervision of Dr. Christopher Healey.
 
-Research interests: image understanding, creativity, pattern recognition, anomaly detection, text-to-image generation, multi-modal learning, prompt engineering, computational biology.
+Research interests: image understanding, creativity, computer vision, machine learning, pattern recognition, anomaly detection, text-to-image generation, multi-modal learning, prompt engineering, and computational biology.
 
 

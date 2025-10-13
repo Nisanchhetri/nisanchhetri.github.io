@@ -5,7 +5,7 @@
     "image": "",
     "email": "nchhetr DOT ncsu DOT edu",
     "url": "https://nisanchhetri.github.io/",
-    "summary": "A 4th-year PhD candidate in computer science at NC State University with diverse expertise in machine learning and creativity!",
+    "summary": "A 5th-year PhD candidate in Computer Science at NC State University with diverse expertise in Machine learning and Creativity!",
     "location": {
       "address": "Raleigh",
       "postalCode": "27606",
@@ -117,14 +117,14 @@
     {
       "name": "The Role of the Mycobiome in Growth of the Pre-wean Pig, Sus scrofa [Status: submitted]",
       "publisher": "Journal of Animal Science",
-      "releaseDate": "2024-10",
+      "releaseDate": "2025-03",
       "url": "",
       "summary": ""
     },
     {
       "name": "A metaproteomic analysis of the piglet fecal microbiome during the weaning transition [Status: submitted]",
       "publisher": "Frontiers in Microbiology",
-      "releaseDate": "2024-10",
+      "releaseDate": "2025-01",
       "url": "",
       "summary": ""
     }
@@ -186,11 +186,12 @@
   "projects": [
     {
       "name": "Image Generation via Prompt-Based Guidance",
-      "summary": "Developing a user-driven T2I framework using prompt engineering; discovered major limitations in diffusion-based models for complex object generation.",
+      "summary": "Developed a fully automated user-driven T2I framework using prompt engineering; discovered major limitations in diffusion-based models for complex object generation. Introduced a novel CAS metric and achieved visual flaw
+detection accuracy by nearly 240% (0.54 vs. 0.16) over the CLIP baseline across four vehicle categories.",
       "highlights": ["text-to-image", "prompt engineering"],
       "startDate": "2024-05-14",
       "endDate": "Present",
-      "url": ""
+      "url": "https://www.dropbox.com/scl/fi/ckpjt2f4h5o6ta4z50er7/PromptIQ.pdf?rlkey=2uxdl9q7e6hi57cey9qp640hc&st=a0cvvcv2&dl=0"
     }
   ]
 }

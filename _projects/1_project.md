@@ -2,7 +2,7 @@
 layout: page
 title: Automated image generation via prompt-based guidance
 description: a user-driven T2I framework using prompt engineering with diffusion-based models for complex object generation
-img: assets/img/promptiq.jpg
+img: assets/img/promptiq.png
 importance: 1
 category: work
 related_publications: false

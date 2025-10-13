@@ -108,24 +108,24 @@
   ],
   "publications": [
     {
-      "name": "PromptIQ: Who Cares About Prompts? Let System Handle It – A Component-Aware Framework for T2I Generation. [Status: submitted]",
-      "publisher": "IJCAI (2025)",
+      "name": "PromptIQ: Who Cares About Prompts? Let System Handle It – A Component-Aware Framework for T2I Generation.",
+      "publisher": "arXiv preprint arXiv:2505.06467",
       "releaseDate": "2025-02",
-      "url": "",
+      "url": "https://arxiv.org/abs/2505.06467",
       "summary": ""
     },
     {
-      "name": "The Role of the Mycobiome in Growth of the Pre-wean Pig, Sus scrofa [Status: submitted]",
+      "name": "Machine learning models reveal Saccharomyces yeasts are associated with poor piglet growth in early development.",
       "publisher": "Journal of Animal Science",
       "releaseDate": "2025-03",
-      "url": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40296223/",
       "summary": ""
     },
     {
-      "name": "A metaproteomic analysis of the piglet fecal microbiome during the weaning transition [Status: submitted]",
+      "name": "A metaproteomic analysis of the piglet fecal microbiome during the weaning transition.",
       "publisher": "Frontiers in Microbiology",
       "releaseDate": "2025-01",
-      "url": "",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12082470/",
       "summary": ""
     }
   ],

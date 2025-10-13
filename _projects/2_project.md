@@ -2,7 +2,7 @@
 layout: page
 title: Few-shot Learning for Energy Detection
 description: a few-shot learning model to detect energy infrastructure (nuclear, solar, hydro) in aerial imagery.
-img: assets/img/few-shot.png
+img: assets/img/fewshot.png
 importance: 1
 category: academic
 ---

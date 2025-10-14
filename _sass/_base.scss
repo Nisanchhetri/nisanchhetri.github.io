@@ -28,11 +28,9 @@ p {
   line-height: 1.5;           // Tighter
 }
 
-// Target ONLY the news section for solid black
-.news {
-  p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
-    color: #000000 !important;
-  }
+// Force solid black for ALL text in news section (override light gray)
+.news * {
+  color: #000000 !important;
 }
 
 code, pre {

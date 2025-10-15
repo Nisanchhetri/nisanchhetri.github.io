@@ -185,7 +185,7 @@
   ],
   "projects": [
     {
-      "name": "Image Generation via Prompt-Based Guidance",
+      "name": "Automated image generation via prompt-based guidance",
       "summary": "Developed a fully automated user-driven T2I framework using prompt engineering; discovered major limitations in diffusion-based models for complex object generation. Introduced a novel CAS metric and achieved visual flaw detection accuracy by nearly 240% (0.54 vs. 0.16) over the CLIP baseline across four vehicle categories.",
       "highlights": ["text-to-image", "prompt engineering"],
       "startDate": "2024-05-14",

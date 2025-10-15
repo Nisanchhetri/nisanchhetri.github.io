@@ -46,7 +46,7 @@
       "url": "",
       "startDate": "2023-05-16",
       "endDate": "2023-08-16",
-      "summary": "Applied machine learning techniques in microbiome dataset to identify growth enhancing fungi in swine.",
+      "summary": "Applied machine learning techniques in microbiome dataset to identify growth-enhancing fungi in swine.",
       "highlights": ["Machine learning", "Microbiome", "Pattern identification", "Swine growth"]
     }
   ],
@@ -60,7 +60,7 @@
       "startDate": "2021-08-16",
       "endDate": "2026-05-06",
       "score": "10",
-      "courses": ["Data Structures and Algorithms", "Artificial Intelligence", "Data Mining", "Neural Networks", "Efficient Deep Learning", "Software Engineering", "Accelerated Deep Learning", "Advanced Machine Learning"]
+      "courses": ["Dissertation title: Modeling Creativity Dimensions to estimate Image Creativity"]
     },
     {
       "institution": "North Carolina State University",
@@ -69,9 +69,9 @@
       "area": "Machine learning and Creativity",
       "studyType": "Master's in Computer Science",
       "startDate": "2021-08-16",
-      "endDate": "2023-12-06",
+      "endDate": "2024-12-06",
       "score": "10",
-      "courses": ["Machine Learning"]
+      "courses": ["Data Structures and Algorithms", "Artificial Intelligence", "Data Mining", "Neural Networks", "Efficient Deep Learning", "Software Engineering", "Accelerated Deep Learning", "Advanced Machine Learning", "Technical Communication"]
     }
   ],
   "awards": [
@@ -131,11 +131,11 @@
   ],
   "skills": [
     {
-      "name": "Language and Tools",
+      "name": "Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python, C/C++, Bash, Git, Linux, AWS, MySQL, Jupyter, Gradio, MLflow"
+        "Python, C/C++, R, CUDA, Bash/Linux/Unix, SQL"
       ]
     },
     {
@@ -143,7 +143,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Supervised & Unsupervised Learning, Optimization, GANs, Transformers, LLMs, Diffusion models, Creative AI, Computer Vision, EDA"
+        "Supervised & Unsupervised Learning, Optimization, Time-Series Analysis, CNNs, LSTMs, Transformers/LLMs, Diffusion Models, GANs, Computer Vision"
       ]
     },
     {
@@ -151,7 +151,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "PyTorch, TensorFlow, Keras, Sklearn, Pandas, NumPy, Matplotlib, Plotly, OpenCV"
+        "PyTorch, TensorFlow, Keras, sci-kit learn, Pandas, NumPy, Matplotlib, Plotly, OpenCV, Gradio, Streamlit, Hugging Face, A/B Testing, Pandas, NumPy, Tableau, Docker, Kubernetes, Github, AWS, Azure, Vertex AI, Google Cloud Platform"
       ]
     }
   ],
@@ -191,6 +191,38 @@
       "startDate": "2024-05-14",
       "endDate": "Present",
       "url": "https://www.dropbox.com/scl/fi/ckpjt2f4h5o6ta4z50er7/PromptIQ.pdf?rlkey=2uxdl9q7e6hi57cey9qp640hc&st=a0cvvcv2&dl=0"
+    },
+    {
+      "name": "Few-shot Learning for Energy Detection",
+      "summary": "Developed a few-shot learning model using Prototypical Networks and RepPoints embeddings for aerial imagery classification. This model achieved 95% accuracy on novel energy facility classes with limited training data.",
+      "highlights": ["few-shot learning", "prototypical networks", "image embeddings"],
+      "startDate": "2023-01-12",
+      "endDate": "2023-05-15",
+      "url": "https://www.dropbox.com/scl/fi/4l6i9775zijh2dicoc7wf/CSC722_Project_Group_5_report-updated.pdf?rlkey=mf5x6q03d193bko4kkj8tv2d6&st=9s4zdmql&dl=0"
+    },
+    {
+      "name": "Evaluation of various BERT algorithms",
+      "summary": " Systematically benchmarked five BERT model variants across eight GLUE tasks, rigorously identifying the optimal performer for Natural Language Understanding (NLU). The analysis revealed key performance differences between semantic and syntactic tasks.",
+      "highlights": ["BERT algorithms", "GLUE tasks", "natural language understanding"],
+      "startDate": "2022-08-16",
+      "endDate": "2022-12-14",
+      "url": "https://www.dropbox.com/scl/fi/tbvzq595yufeh1p7hcuii/Project_Report_CSC_791__Efficient_DL_nchhetr.pdf?rlkey=ulr1od3molex1xifqqgo44yii&st=ciuutucc&dl=0"
+    },
+    {
+      "name": "EcoNet Weather Forecasting",
+      "summary": "Built an ensemble classification model using SMOTE and CatBoost on a 6.5 million-sample, severely imbalanced dataset. This system achieved 99% recall, ranking 1st among 25 competing teams.",
+      "highlights": ["machine learning", "class imbalance", "classification"],
+      "startDate": "2022-02-05",
+      "endDate": "2022-05-15",
+      "url": "https://www.dropbox.com/scl/fi/022kfxtn8xs9z1kskn50r/CSC_522__Project_Final_Report.pdf?rlkey=zswuvrmfo34nhjn8d1lc7kwkq&st=jwepug6k&dl=0"
+    },
+    {
+      "name": "Pneumonia Detection",
+      "summary": "Applied the DenseNet deep learning architecture to chest X-ray data for automated pneumonia detection and localization. This project demonstrated proficiency in medical imaging analysis by achieving 80% accuracy on the diagnostic classification task.",
+      "highlights": ["deep learning", "computer vision", "medical image analysis"],
+      "startDate": "2021-10-02",
+      "endDate": "2021-12-10",
+      "url": "https://www.dropbox.com/scl/fi/3xm7intavg1agwvck2giv/F3-Video_-RSNA-Pneumonia-Detection-Challenge.pdf?rlkey=y0ni18q3312urhagpsuzybtfm&st=6ulr8jf0&dl=0"
     }
   ]
 }

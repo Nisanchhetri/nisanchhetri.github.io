@@ -5,7 +5,7 @@ description: a user-driven T2I framework using prompt engineering with diffusion
 img: assets/img/promptiq.png
 importance: 1
 category: academic
-related_publications: true
+related_publications: false
 ---
 
 Abstract
